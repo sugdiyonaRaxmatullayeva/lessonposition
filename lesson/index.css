@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: sans-serif;
+}
+/* .box1{
+    padding: 20px;
+    line-height: 24x;
+    height: 600px;
+    background-image: url(./IMG_8371_HDR-scaled.jpg);
+    
+
+}
+.box2{
+    width: 300px;
+    height: 250px;
+    padding: 50px;
+ border: 5px solid black;
+ border-radius: 50%;
+ margin: 20px;
+ background-image: url(./flowers-1.webp);
+ background-repeat: no-repeat;
+ background-size: cover;
+                                
+} */
+ .box1{
+  width: 200px;
+  height: 150px;
+  margin: 50px;
+  border: 3px solid black;
+  background-image: url(./flowers-1.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: 70px 50px;
+ }
+ .box2 {
+    width: 200px;
+    height: 150px;
+    margin: 50px;
+    border: 3px solid black;
+    background-image: url(./flowers-1.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 70px 50px;
+    background-position: right top;
+
+ }
+ .box3{ 
+    width: 200px;
+    height: 150px;
+    margin: 50px;
+    border: 3px solid black;
+    background-image: url(./flowers-1.webp);
+    box-shadow: 5px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 70px 50px;
+    background-position: center center;
+
+ }
+ .box4{
+
+    width: 200px;
+    height: 150px;
+    margin: 50px;
+    border: 3px solid black;
+    background-image: url(./flowers-1.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 70px 50px; 
+    background-position: right 30px bottom 20px;
+ }
+ .box5{
+    width: 200px;
+    height: 150px;
+    margin: 50px;
+    border: 3px solid black;
+    background-image: url(./flowers-1.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 70px 50px; 
+    background-position: top 20px left 10px;
+    
+ }
+ .box6{
+    width: 200px;
+    height: 150px;
+    margin: 50px;
+    border: 3px solid black;
+    background-image: url(./flowers-1.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 70px 50px; 
+    background-position: bottom 30px left 40px;
+ }
